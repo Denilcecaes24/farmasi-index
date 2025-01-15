@@ -1,2 +1,2 @@
-# farmasi-index
-pagina farmasi mexico
+# farmasi-page
+farmasi-page
